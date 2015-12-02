@@ -1,3 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+
+
+font-family: 'Poiret One', cursive;
+
 .col-md-1 {
   border-left: 1px solid black;
   border-right: 1px solid black;
