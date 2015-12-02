@@ -6,13 +6,18 @@
 h1 {
 font-family: 'Poiret One', cursive;
 font-size: 40px;
-background-color: light blue;
+background-color: pink;
+color: white;
 }
 
  h2 {
    font-family: 'Roboto Condensed', sans-serif;
    font-size: 18.5px;
-   background-color: blue;
+   background-color: purple;
+   color: white;
+   width: 50;
+   margin-left: auto;
+   padding-left: -.5em;
  }
 
 .col-md-1 {
