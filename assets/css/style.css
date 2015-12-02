@@ -1,12 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 
 
 
-body {
+h1 {
 font-family: 'Poiret One', cursive;
-font-size: 20px;
+font-size: 40px;
+background-color: light blue;
 }
 
+ h2 {
+   font-family: 'Roboto Condensed', sans-serif;
+   font-size: 18.5px;
+   background-color: blue;
+ }
 
 .col-md-1 {
   border-left: 1px solid black;
