@@ -2,7 +2,11 @@
 
 
 
+body {
 font-family: 'Poiret One', cursive;
+font-size: 20px;
+}
+
 
 .col-md-1 {
   border-left: 1px solid black;
