@@ -12,7 +12,7 @@ color: white;
 
  h2 {
    font-family: 'Raleway', sans-serif;
-   font-size: 18.5px;
+   font-size: 50;
    background-color: purple;
    color: white;
    width: 50;
@@ -29,5 +29,5 @@ color: white;
 P {
   font-family: 'raleway', sans-serif;
   font-size: 50;
-  background-color: pink; 
+  background-color: pink;
 }
