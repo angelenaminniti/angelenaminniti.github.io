@@ -30,4 +30,7 @@ P {
   font-family: 'raleway', sans-serif;
   font-size: 50;
   background-color: pink;
+  max-height: inherit;
+  padding-right: 20;
+  
 }
