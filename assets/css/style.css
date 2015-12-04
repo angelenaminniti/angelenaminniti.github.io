@@ -10,7 +10,12 @@ color: white;
 padding-left: 50;
 width: 100;
 }
+.nav h1 {
+  background-color: pink;
+  color: white;
+  padding-left: 100;
 
+}
 
  h2 {
    font-family: 'Raleway', sans-serif;
