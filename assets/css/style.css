@@ -28,7 +28,6 @@ color: white;
 
 P {
   font-family: 'raleway', sans-serif;
-  font-size: 25;
-  
-
+  font-size: 50;
+  background-color: pink; 
 }
