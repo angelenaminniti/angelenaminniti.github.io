@@ -7,15 +7,15 @@ font-family: 'Poiret One', cursive;
 font-size: 65px;
 background-color: pink;
 color: white;
-padding-left: 100px;
-padding-right: 150px;
+padding-left: 10px;
+padding-right: 200px;
 width: 100;
 }
 .btn {
   background-color: pink;
   color: black;
   font-size: 55;
-  padding-right: 175;
+  padding-right: 250;
 
 }
 
