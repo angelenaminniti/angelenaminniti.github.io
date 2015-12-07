@@ -55,7 +55,8 @@ h3 {
   }
 
   #SocialBenefits {
-    text-align: center;
+    text-align: center:
+    padding: inherit;
   }
 
 #CareerBenefits {
