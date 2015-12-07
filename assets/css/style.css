@@ -41,3 +41,9 @@ P {
   color: white;
 
 }
+
+h2.blocktext {
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  }
